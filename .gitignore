@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments (not used here but safe)
+env/
+venv/
+.venv/
+
+# Jupyter checkpoints (if labs use notebooks)
+.ipynb_checkpoints/
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# VSCode configs (optional ignore)
+.vscode/

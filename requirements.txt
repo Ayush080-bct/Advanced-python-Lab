@@ -1,0 +1,25 @@
+Bottleneck @ file:///home/task_176193795131750/conda-bld/bottleneck_1761937999296/work
+contourpy @ file:///home/task_176364358039429/conda-bld/contourpy_1763643922278/work
+cycler @ file:///home/task_176606792703097/croot/cycler_1766067949602/work
+fonttools @ file:///home/task_176544511060885/conda-bld/fonttools_1765445132369/work
+kiwisolver @ file:///home/task_176415904289632/conda-bld/kiwisolver_1764159297891/work
+matplotlib==3.10.8
+mkl-service==2.5.2
+mkl_fft @ file:///home/task_176159249290440/conda-bld/mkl_fft_1761592897595/work
+mkl_random @ file:///home/task_176159294306005/conda-bld/mkl_random_1761592958759/work
+numexpr @ file:///home/task_176216555892389/conda-bld/numexpr_1762165570527/work
+numpy @ file:///home/task_176837629876890/croot/numpy_and_numpy_base_1768376369602/work/dist/numpy-2.4.1-cp313-cp313-linux_x86_64.whl#sha256=9a14abfd93ded7ffcf9af2f91321cfe3bc5f28a94f290536ea90ef1bf93ebefd
+packaging @ file:///home/task_176104878999627/conda-bld/packaging_1761049078606/work
+pandas @ file:///home/task_176233227716934/conda-bld/pandas_1762332316855/work/dist/pandas-2.3.3-cp313-cp313-linux_x86_64.whl#sha256=2a8cd490d33d9b52e76e907647165bb2d5ad29518cda829f64278dfa3b83e952
+pillow @ file:///home/task_176252756300243/conda-bld/pillow_1762528238732/work
+pyparsing @ file:///home/task_176397383618695/conda-bld/pyparsing_1763973847947/work
+PyQt6==6.9.1
+PyQt6_sip @ file:///home/task_175751009430255/conda-bld/pyqt-split_1757511023908/work/pyqt_sip
+python-dateutil @ file:///work/perseverance-python-buildout/croot/python-dateutil_1728385355105/work
+pytz @ file:///croot/pytz_1752135852232/work
+setuptools==80.9.0
+sip @ file:///croot/sip_1756223371714/work
+six @ file:///croot/six_1744271502820/work
+tornado @ file:///home/task_176599249685223/croot/tornado_1765992686091/work
+tzdata @ file:///home/task_176829656558347/croot/python-tzdata_1768296637279/work
+wheel==0.45.1
