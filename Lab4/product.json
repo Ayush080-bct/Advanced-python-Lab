@@ -1,0 +1,22 @@
+[
+  {"product_id": 1, "name": "Laptop", "price": 75000, "category": "Electronics"},
+  {"product_id": 2, "name": "Smartphone", "price": 45000, "category": "Electronics"},
+  {"product_id": 3, "name": "Headphones", "price": 3000, "category": "Accessories"},
+  {"product_id": 4, "name": "Keyboard", "price": 1500, "category": "Accessories"},
+  {"product_id": 5, "name": "Mouse", "price": 1200, "category": "Accessories"},
+  {"product_id": 6, "name": "Monitor", "price": 18000, "category": "Electronics"},
+  {"product_id": 7, "name": "Printer", "price": 12000, "category": "Electronics"},
+  {"product_id": 8, "name": "Desk Chair", "price": 8000, "category": "Furniture"},
+  {"product_id": 9, "name": "Office Desk", "price": 15000, "category": "Furniture"},
+  {"product_id": 10, "name": "Water Bottle", "price": 500, "category": "Lifestyle"},
+  {"product_id": 11, "name": "Backpack", "price": 2500, "category": "Lifestyle"},
+  {"product_id": 12, "name": "Shoes", "price": 4000, "category": "Fashion"},
+  {"product_id": 13, "name": "T-Shirt", "price": 800, "category": "Fashion"},
+  {"product_id": 14, "name": "Jeans", "price": 2500, "category": "Fashion"},
+  {"product_id": 15, "name": "Watch", "price": 6000, "category": "Accessories"},
+  {"product_id": 16, "name": "Table Lamp", "price": 2000, "category": "Home"},
+  {"product_id": 17, "name": "Bookshelf", "price": 7000, "category": "Furniture"},
+  {"product_id": 18, "name": "Notebook", "price": 150, "category": "Stationery"},
+  {"product_id": 19, "name": "Pen Set", "price": 100, "category": "Stationery"},
+  {"product_id": 20, "name": "Earbuds", "price": 2200, "category": "Accessories"}
+]
