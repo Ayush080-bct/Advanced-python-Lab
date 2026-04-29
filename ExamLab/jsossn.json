@@ -1,0 +1,18 @@
+[
+    {
+        "Roll_no": 1,
+        "Name": "Ram",
+        "courses": [
+            "c++",
+            "pyhton"
+        ]
+    },
+    {
+        "Roll_no": 2,
+        "Name": "sita",
+        "courses": [
+            "c",
+            "data science"
+        ]
+    }
+]
