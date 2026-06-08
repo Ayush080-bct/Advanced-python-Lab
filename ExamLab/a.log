@@ -1,2 +1,4 @@
 2026-04-28 21:20:29,642-__main__-WARNING-Deposited 100. New balance: 1100
 2026-04-28 21:20:29,643-__main__-WARNING-Withdrew 1000. New balance: 100
+2026-04-30 13:55:13,347-__main__-INFO-Hello world
+2026-04-30 14:19:01,170-numexpr.utils-INFO-NumExpr defaulting to 12 threads.
